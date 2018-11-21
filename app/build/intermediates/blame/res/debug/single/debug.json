@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Drive\\Programs\\Android\\Mr_UngilBil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img.png.flat",
+        "source": "D:\\Drive\\Programs\\Android\\Mr_UngilBil\\app\\src\\main\\res\\drawable-xhdpi\\img.png"
+    },
+    {
+        "merged": "D:\\Drive\\Programs\\Android\\Mr_UngilBil\\app\\build\\intermediates\\res\\merged\\debug\\layout_help.xml.flat",
+        "source": "D:\\Drive\\Programs\\Android\\Mr_UngilBil\\app\\src\\main\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "D:\\Drive\\Programs\\Android\\Mr_UngilBil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_icon.png.flat",
+        "source": "D:\\Drive\\Programs\\Android\\Mr_UngilBil\\app\\src\\main\\res\\drawable-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\Drive\\Programs\\Android\\Mr_UngilBil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img2.png.flat",
+        "source": "D:\\Drive\\Programs\\Android\\Mr_UngilBil\\app\\src\\main\\res\\drawable-xhdpi\\img2.png"
+    },
+    {
+        "merged": "D:\\Drive\\Programs\\Android\\Mr_UngilBil\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\Drive\\Programs\\Android\\Mr_UngilBil\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Drive\\Programs\\Android\\Mr_UngilBil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_info_outline_grey.png.flat",
+        "source": "D:\\Drive\\Programs\\Android\\Mr_UngilBil\\app\\src\\main\\res\\drawable-xhdpi\\ic_info_outline_grey.png"
+    }
+]
