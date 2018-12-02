@@ -135,8 +135,6 @@ public class MainActivity extends Activity {
         Calendar cal = Calendar.getInstance();
         entriesFilePath = FileUtil.getExternalStorageDir()+"/"+getResources().getString(R.string.AppName)+"/"+(new SimpleDateFormat("yyyyMM").format(cal.getTime())+".txt");
         itemsFilePath = FileUtil.getExternalStorageDir()+"/"+getResources().getString(R.string.AppName)+"/items.txt";
-        //entriesFilePath = FileUtil.getExternalStorageDir()+"/"+"RuPay"+"/"+(new SimpleDateFormat("yyyyMM").format(cal.getTime())+".txt");
-        //itemsFilePath = FileUtil.getExternalStorageDir()+"/"+"RuPay"+"/items.txt";
         _initialiseSpinner();
         _rewrite();
     }

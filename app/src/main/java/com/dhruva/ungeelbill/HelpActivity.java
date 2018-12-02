@@ -66,8 +66,8 @@ public class HelpActivity extends Activity {
 				String itemName=itemname.getText().toString();
 				String costMax=cost_max.getText().toString();
 				if (!costMax.isEmpty()&& !itemName.isEmpty()){
-                    FileUtil.writeFile(MainActivity.itemsFilePath, FileUtil.readFile(MainActivity.entriesFilePath)+itemName+":"+costMax+"\n");
-                    SketchwareUtil.showMessage(getApplicationContext(), itemName+costMax+"Item added");
+                    FileUtil.writeFile(MainActivity.itemsFilePath, FileUtil.readFile(MainActivity.itemsFilePath)+itemName+":"+costMax+"\n");
+                    SketchwareUtil.showMessage(getApplicationContext(), itemName+" "+costMax+"Item added");
                 }
 				else {
                     SketchwareUtil.showMessage(getApplicationContext(), "Enter Item Name and Cost");
