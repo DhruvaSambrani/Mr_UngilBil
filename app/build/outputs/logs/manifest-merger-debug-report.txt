@@ -1,76 +1,113 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:1:1-27:12
-INJECTED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:1:1-27:12
-INJECTED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:1:1-27:12
-INJECTED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:1:1-27:12
-INJECTED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:1:1-27:12
-INJECTED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:1:1-27:12
-INJECTED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:1:1-27:12
+ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\b0782cd583d13ee9f122ec3835242875\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\1c1824a58fc24726d93dc157db1bb8b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\4aef436f22e41c85b138c9649b6f9138\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\820a03b9ca53b947a0ed911406b347cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\9dc16225e78a95d89270e28ff35e4cab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\5e1b44b9415ecf9796c2f2282a9f5855\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\80da92bb9960deff7afea4f754160670\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bed5ca6cd8dffeb41db869acd8b41328\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4e5add8897526c4cf3493901e692fe7e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\eafbd25683a7abf6221b1bb10ced6cc4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e2e80c23175c45a87e0ea4203252b764\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:2:1-33:12
 	package
-		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:3:2-33
+		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:4:5-36
 		INJECTED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml
 		INJECTED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml
-		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:1:1-27:12
+		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:2:1-33:12
 		INJECTED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml
-		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:1:1-27:12
+		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:2:1-33:12
 		INJECTED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:2:2-60
+		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:4:2-76
+ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:6:5-80
 	android:name
-		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:4:19-74
+		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:6:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:5:2-77
+ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:7:5-81
 	android:name
-		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:5:19-75
+		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:7:22-78
 application
-ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:6:2-26:16
+ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:9:5-31:19
 	android:label
-		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:7:3-34
+		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:11:9-40
+	tools:ignore
+		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:14:9-48
 	android:largeHeap
-		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:9:3-27
+		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:12:9-33
 	android:icon
-		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:8:3-36
+		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:10:9-42
 	android:theme
-		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:10:3-34
+		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:13:9-40
 activity#com.dhruva.ungeelbill.MainActivity
-ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:12:3-20:14
+ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:15:9-24:20
 	android:screenOrientation
-		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:15:4-40
+		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:18:13-49
 	android:configChanges
-		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:14:4-50
+		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:17:13-59
 	android:name
-		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:13:4-32
+		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:16:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:16:4-19:20
+ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
-ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:17:5-56
+ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:17:13-54
+		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:18:5-64
+ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:18:15-62
+		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:22:27-74
 activity#com.dhruva.ungeelbill.HelpActivity
-ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:21:3-25:42
+ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:25:9-29:49
 	android:screenOrientation
-		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:25:4-40
+		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:28:13-49
 	android:configChanges
-		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:23:4-50
+		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:27:13-59
 	android:theme
-		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:24:4-37
+		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:29:13-46
 	android:name
-		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:22:4-32
+		ADDED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml:26:13-41
 uses-sdk
 INJECTED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml
 INJECTED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\b0782cd583d13ee9f122ec3835242875\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\b0782cd583d13ee9f122ec3835242875\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\1c1824a58fc24726d93dc157db1bb8b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\1c1824a58fc24726d93dc157db1bb8b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\4aef436f22e41c85b138c9649b6f9138\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\4aef436f22e41c85b138c9649b6f9138\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\820a03b9ca53b947a0ed911406b347cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\820a03b9ca53b947a0ed911406b347cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\9dc16225e78a95d89270e28ff35e4cab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\9dc16225e78a95d89270e28ff35e4cab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\5e1b44b9415ecf9796c2f2282a9f5855\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\5e1b44b9415ecf9796c2f2282a9f5855\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\80da92bb9960deff7afea4f754160670\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\80da92bb9960deff7afea4f754160670\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bed5ca6cd8dffeb41db869acd8b41328\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bed5ca6cd8dffeb41db869acd8b41328\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4e5add8897526c4cf3493901e692fe7e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4e5add8897526c4cf3493901e692fe7e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\eafbd25683a7abf6221b1bb10ced6cc4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\eafbd25683a7abf6221b1bb10ced6cc4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e2e80c23175c45a87e0ea4203252b764\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Dhruva Sambrani\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e2e80c23175c45a87e0ea4203252b764\AndroidManifest.xml:20:5-44
 INJECTED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml
 INJECTED from F:\Programs\Android\Mr_UngilBil\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "209114424063",
+    "firebase_url": "https://mrungilbil.firebaseio.com",
+    "project_id": "mrungilbil",
+    "storage_bucket": "mrungilbil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209114424063:android:096c2c541fa6226b",
+        "android_client_info": {
+          "package_name": "com.dhruva.ungeelbill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209114424063-50efa1rtg004gio0vcii3qj9qnocr82r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dhruva.ungeelbill",
+            "certificate_hash": "0c7ec3fd230c5da3dfbf5dd508ab5e81e7069d8c"
+          }
+        },
+        {
+          "client_id": "209114424063-88lrbcrmrcu4k3l76e41j1clfqcan0aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzBfEQ4n1YJiIdJ7kWgpKJJD-RakOJRzo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209114424063-88lrbcrmrcu4k3l76e41j1clfqcan0aj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

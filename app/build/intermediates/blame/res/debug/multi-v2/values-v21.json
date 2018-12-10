@@ -4,22 +4,66 @@
             "outputFile": "F:\\Programs\\Android\\Mr_UngilBil\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
-                    "source": "F:\\Programs\\Android\\Mr_UngilBil\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "source": "C:\\Users\\Dhruva Sambrani\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\4aef436f22e41c85b138c9649b6f9138\\res\\values-v21\\values-v21.xml",
                     "from": {
-                        "startLines": "1,8",
-                        "startColumns": "1,1",
-                        "startOffsets": "14,466",
-                        "endLines": "7,14",
-                        "endColumns": "9,9",
-                        "endOffsets": "463,926"
+                        "startLines": "-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1"
                     },
                     "to": {
-                        "startLines": "2,9",
+                        "startLines": "24,27,31,35",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1583,1751,2040,2336",
+                        "endLines": "26,29,33,37",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "1746,1909,2203,2498"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dhruva Sambrani\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\80da92bb9960deff7afea4f754160670\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,22,23,30,34,38,41",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,1341,1457,1914,2208,2503,2675",
+                        "endLines": "2,3,4,5,22,23,30,34,40,45",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,1452,1578,2035,2331,2670,3008"
+                    }
+                },
+                {
+                    "source": "F:\\Programs\\Android\\Mr_UngilBil\\app\\src\\main\\res\\values-v21\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "6,7",
                         "startColumns": "4,4",
-                        "startOffsets": "55,503",
-                        "endLines": "8,15",
+                        "startOffsets": "354,396",
+                        "endColumns": "41,37",
+                        "endOffsets": "391,429"
+                    }
+                },
+                {
+                    "source": "F:\\Programs\\Android\\Mr_UngilBil\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "8,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "434,882",
+                        "endLines": "14,21",
                         "endColumns": "9,9",
-                        "endOffsets": "498,957"
+                        "endOffsets": "877,1336"
                     }
                 }
             ]
